@@ -1,13 +1,17 @@
 Documentation for Time Spent on Project:
 
-1/14:
+1/12: client meeting
+IN: Chris, Ian, Skyler - 10:00am
+OUT: Chris, Ian, Skyler - 11:00am 
+
+1/14: set up example database and dashboard for client meeting
 IN: Chris, Ian, Skyler - 3:00pm
 OUT: Chris, Ian, Skyler - 4:45pm
 
-1/21:
+1/21: met with CIAC about getting data
 IN: Chris, Ian, Skyler - 12:00pm
 OUT: Chris, Ian, Skyler - 1:00pm
 
-1/23:
+1/23: worked on getting data
 IN: Chris, Ian, Skyler - 2:00pm
-OUT: Chris, Ian, Skyler - 
+OUT: Chris, Ian, Skyler - 3:30pm
