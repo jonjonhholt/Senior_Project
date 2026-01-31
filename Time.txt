@@ -23,4 +23,5 @@ OUT: Chris, Ian, Skyler - 12:00pm
 1/30: worked on getting data, setting up powerBI
 IN: Ian, Skyler - 4:00pm
     Chris - 4:30pm
-OUT: IAN - 7:10PM
+OUT: Skyler - 6:00pm 
+     Chris, Ian - 7:10PM
