@@ -16,5 +16,11 @@ OUT: Chris, Ian, Skyler - 1:00pm
 IN: Chris, Ian, Skyler - 2:00pm
 OUT: Chris, Ian, Skyler - 3:30pm
 
-1/30:
-IN: Ian - 4:00pm
+1/26: client meeting
+IN: Chris, Ian, Skyler - 11:00am
+OUT: Chris, Ian, Skyler - 12:00pm
+
+1/30: worked on getting data, setting up powerBI
+IN: Ian, Skyler - 4:00pm
+    Chris - 4:30pm
+OUT: 
