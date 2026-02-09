@@ -25,3 +25,11 @@ IN: Ian, Skyler - 4:00pm
     Chris - 4:30pm
 OUT: Skyler - 6:00pm 
      Chris, Ian - 7:10PM
+     
+2/2: client meeting
+IN: Chris, Ian, Skyler - 11:00am
+OUT: Chris, Ian, Skyler - 11:45am
+
+2/8: added more data to powerBI
+IN: Chris, Ian, Skyler - 7:30pm
+OUT: 
