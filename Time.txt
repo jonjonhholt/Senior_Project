@@ -32,4 +32,5 @@ OUT: Chris, Ian, Skyler - 11:45am
 
 2/8: added more data to powerBI
 IN: Chris, Ian, Skyler - 7:30pm
-OUT: Ian - 9:15pm
+OUT: Skyler - 8:30pm
+     Chris, Ian - 9:15pm
