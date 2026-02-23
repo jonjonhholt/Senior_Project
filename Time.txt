@@ -34,3 +34,26 @@ OUT: Chris, Ian, Skyler - 11:45am
 IN: Chris, Ian, Skyler - 7:30pm
 OUT: Skyler - 8:30pm
      Chris, Ian - 9:15pm
+     
+2/17: worked on dashboard to prepare for presentation to CIAC
+IN: Chris, Ian, Skyler - 9:15pm
+OUT: Skyler - 10:15pm
+     Chris, Ian - 11:15pm
+     
+2/18: demo meeting with client ahead of presentation to CIAC
+IN: Chris, Ian, Skyler - 12:00pm
+OUT: Chris, Ian, Skyler - 12:30pm
+
+2/19: presentation to CIAC
+IN: Chris, Ian, Skyler - 5:30pm
+OUT: Chris, Ian, Skyler - 6:15pm
+
+2/23: meeting with client
+IN: Chris, Ian, Skyler - 11:00am
+OUT: Chris, Ian, Skyler - 11:45am
+
+
+TOTAL TIME:
+Chris - 15hr 30m
+Ian - 15hr 45m
+Skyler - 13hrs
