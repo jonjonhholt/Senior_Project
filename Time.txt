@@ -52,8 +52,12 @@ OUT: Chris, Ian, Skyler - 6:15pm
 IN: Chris, Ian, Skyler - 11:00am
 OUT: Chris, Ian, Skyler - 11:45am
 
+3/1: worked on server and added smart trips data
+IN: Chris, Ian, Skyler - 6:00pm
+OUT: Chris, Ian, Skyler - 8:30pm
+
 
 TOTAL TIME:
-Chris - 15hr 30m
-Ian - 15hr 45m
-Skyler - 13hrs
+Chris - 18hr 0m
+Ian - 18hr 15m
+Skyler - 15hrs 30m
