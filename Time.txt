@@ -56,6 +56,17 @@ OUT: Chris, Ian, Skyler - 11:45am
 IN: Chris, Ian, Skyler - 6:00pm
 OUT: Chris, Ian, Skyler - 8:30pm
 
+3/2: cleaned up powerBI for meeting with client
+IN: Chris, Ian - 9:30am
+OUT: Chris, Ian, 11:00am
+
+3/2: meeting with client
+IN: Chris, Ian, Skyler - 11:00am
+OUT: Chris, Ian, Skyler - 11:45am
+
+3/8: parsing smart trips survey data, updating powerBI
+IN: Chris, Ian, Skyler - 12:30pm
+OUT: Chris, Ian, Skyler - 2:45pm
 
 TOTAL TIME:
 Chris - 18hr 0m
