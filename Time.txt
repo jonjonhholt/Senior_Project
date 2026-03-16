@@ -68,7 +68,19 @@ OUT: Chris, Ian, Skyler - 11:45am
 IN: Chris, Ian, Skyler - 12:30pm
 OUT: Chris, Ian, Skyler - 2:45pm
 
+3/10: working on navigation
+IN: Chris, Ian - 6:00pm
+OUT: Chris, Ian - 9:00pm
+
+3/11: meeting with client
+IN: Chris, Ian - 12:00pm
+OUT: Chris, Ian - 12:45pm
+
+3/15: continued work on navigation, working on understanding slice r + buttons
+IN: Chris, Ian, Skyler - 5:30pm
+OUT: Chris, Ian, Skyler - 8:30pm
+
 TOTAL TIME:
-Chris - 18hr 0m
-Ian - 18hr 15m
-Skyler - 15hrs 30m
+Chris - 
+Ian - 
+Skyler - 
