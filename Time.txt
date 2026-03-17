@@ -80,7 +80,11 @@ OUT: Chris, Ian - 12:45pm
 IN: Chris, Ian, Skyler - 5:30pm
 OUT: Chris, Ian, Skyler - 8:30pm
 
-TOTAL TIME:
-Chris - 
-Ian - 
-Skyler - 
+3/16: created documentatation, working on presentation
+IN: Chris, Ian - 6:00pm
+OUT: Chris, Ian - 10:00pm
+
+TOTAL TIME: (as of 3/16)
+Chris - 33h 10m
+Ian - 33h 40m
+Skyler - 21h 15m
