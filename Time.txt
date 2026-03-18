@@ -84,7 +84,11 @@ OUT: Chris, Ian, Skyler - 8:30pm
 IN: Chris, Ian - 6:00pm
 OUT: Chris, Ian - 10:00pm
 
+3/17: finished presentation and documentation, practiced presentation
+IN: Chris, Ian, Skyler - 5:50pm
+OUT: Chris, Ian, Skyler - 9:40pm
+
 TOTAL TIME: (as of 3/16)
-Chris - 33h 10m
-Ian - 33h 40m
-Skyler - 21h 15m
+Chris - 37h 0m
+Ian - 37h 30m
+Skyler - 25h 5m
