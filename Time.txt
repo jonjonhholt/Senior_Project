@@ -8,6 +8,10 @@ OUT: Chris, Ian, Skyler - 11:00am
 IN: Chris, Ian, Skyler - 3:00pm
 OUT: Chris, Ian, Skyler - 4:45pm
 
+1/21: prep for meeting with CIAC
+IN: Chris, Ian, Skyler - 11:30am
+OUT: Chris, Ian, Skyler - 12:00pm
+
 1/21: met with CIAC about getting data
 IN: Chris, Ian, Skyler - 12:00pm
 OUT: Chris, Ian, Skyler - 1:00pm
@@ -35,14 +39,18 @@ IN: Chris, Ian, Skyler - 7:30pm
 OUT: Skyler - 8:30pm
      Chris, Ian - 9:15pm
      
-2/17: worked on dashboard to prepare for presentation to CIAC
-IN: Chris, Ian, Skyler - 9:15pm
-OUT: Skyler - 10:15pm
-     Chris, Ian - 11:15pm
+2/18: worked on dashboard to prepare for presentation to CIAC
+IN: Chris, Ian, Skyler - 9:15am
+OUT: Skyler - 10:15am
+     Chris, Ian - 11:15am
      
 2/18: demo meeting with client ahead of presentation to CIAC
 IN: Chris, Ian, Skyler - 12:00pm
 OUT: Chris, Ian, Skyler - 12:30pm
+
+2/19: Preparation for presentation to CIAC
+IN: Chris, Ian, Skyler - 4:30pm
+OUT: Chris, Ian, Skyler - 5:30pm
 
 2/19: presentation to CIAC
 IN: Chris, Ian, Skyler - 5:30pm
@@ -88,7 +96,21 @@ OUT: Chris, Ian - 10:00pm
 IN: Chris, Ian, Skyler - 5:50pm
 OUT: Chris, Ian, Skyler - 9:40pm
 
-TOTAL TIME: (as of 3/16)
-Chris - 37h 0m
-Ian - 37h 30m
-Skyler - 25h 5m
+3/18: preparation before meeting
+IN: Chris, Ian - 11:30pm
+OUT: Chris, Ian - 12:00pm
+
+3/18: Meeting with client
+IN: Chris, Ian, Skyler - 12:00pm
+OUT: Chris, Ian, Skyler - 12:30pm
+
+3/18: Final submission preparation
+IN: Chris - 1:00pm
+    Ian, Skyler - 1:15pm
+OUT: Skyler - 2:00pm
+     Chris, Ian - 2:30pm
+
+TOTAL TIME:
+Chris - 41h 0m
+Ian - 41h 15m
+Skyler - 28h 35m
